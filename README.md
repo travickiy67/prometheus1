@@ -38,10 +38,28 @@
 ---
 
 ### Задание 2
-Установите Alertmanager и интегрируйте его с Prometheus.
+Установите Alertmanager и интегрируйте его с Prometheus.  
 
 ### Требования к результату
 - [ ] Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения
+
+**Уствновлен Prometheus**
+
+**Скрин 1**
+
+![alt text](https://github.com/travickiy67/prometheus1/blob/main/img/img2.1.png)
+
+**Скрин 2**
+
+![alt text](https://github.com/travickiy67/prometheus1/blob/main/img/img2.2.png)
+
+**Скрин 3**
+
+![alt text](https://github.com/travickiy67/prometheus1/blob/main/img/img2.3.png)
+
+**Скрин 4**
+
+![alt text](https://github.com/travickiy67/prometheus1/blob/main/img/img2.4.png)
 
 ---
 
@@ -52,10 +70,29 @@
 ### Требования к результату
 - [ ] приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
+** экспортёр метрик активирован и подключен к Prometheus.**
+
+**скрин**
+
+![alt text](https://github.com/travickiy67/prometheus1/blob/main/img/img3.1.png)
+
+**Скрин 2**
+
+![alt text](https://github.com/travickiy67/prometheus1/blob/main/img/img3.2.png)
 ---
 
 ### Задание 4* (со звездочкой)
 
 Создайте свой дашборд Grafana с различными метриками Docker и сервера, на котором он стоит.
 
+**Скрин 1**
 
+![alt text](https://github.com/travickiy67/prometheus1/blob/main/img/img4.1.png)
+
+**Скрин 1**
+
+![alt text](https://github.com/travickiy67/prometheus1/blob/main/img/img4.2.png)
+
+**Скрин 2**
+
+![alt text](https://github.com/travickiy67/prometheus1/blob/main/img/img4.3.png)
